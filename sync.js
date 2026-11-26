@@ -4,12 +4,12 @@
   'use strict';
 
   /* ===== STEP 1: PASTE YOUR FIREBASE CONFIG HERE ===== */
-  const firebaseConfig = {
-    apiKey: 'PASTE_YOUR_API_KEY',
-    authDomain: 'YOUR-PROJECT.firebaseapp.com',
-    databaseURL: 'https://YOUR-PROJECT-default-rtdb.firebaseio.com',
-    projectId: 'YOUR-PROJECT',
-    appId: 'PASTE_YOUR_APP_ID'
+    const firebaseConfig = {
+    apiKey: 'AIzaSyDrXqbkZTCX0fMvy48okuBpl5lIT5emGlE',
+    authDomain: 'cappy-eep.firebaseapp.com',
+    databaseURL: 'https://cappy-eep-default-rtdb.firebaseio.com',
+    projectId: 'cappy-eep',
+    appId: '1:169061578833:web:07d0731447ec5d74546070'
   };
   const PEOPLE = ['Anshu', 'Trisha'];
   /* ================================================= */
